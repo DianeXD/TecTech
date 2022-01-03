@@ -185,7 +185,7 @@ public class DreamCraftRecipeLoader implements Runnable {
                 }, new FluidStack[]{
                         Materials.SolderingAlloy.getMolten(1296),
                         Materials.Neutronium.getMolten(576)
-                }, ItemList.OilDrillInfinite.get(1), 1200, 2000000);
+                }, ItemList.OilDrillInfinite.get(1), 144000, 2000000);
 
         //Tesla Base
         GT_Values.RA.addAssemblerRecipe(new ItemStack[]{
